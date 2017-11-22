@@ -1,0 +1,20 @@
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.exe.config
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.exe
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.pdb
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.Math.resources
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.exe
+c:\users\алексей\documents\visual studio 2017\Projects\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.pdb
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.FactorialForm.resources
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.Math.resources
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.Properties.Resources.resources
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.exe
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.pdb
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.exe.config
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.exe
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\bin\Debug\WinFormsMathHelper.pdb
+C:\Users\Алексей\Desktop\WinFormsMathHelper\WinFormsMathHelper\obj\Debug\WinFormsMathHelper.QuadraticEquation.resources
