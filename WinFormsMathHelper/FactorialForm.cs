@@ -18,7 +18,7 @@ namespace WinFormsMathHelper
         }
 
         private void bCountFactorial_Click(object sender, EventArgs e)
-        {
+        { //
             try
             {
                 MyMath math = new MyMath();
